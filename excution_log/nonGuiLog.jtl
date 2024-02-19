@@ -1,0 +1,137 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1708337653654,3900,getLandingPage,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,558069,2527,1,1,null,0,312,2605
+1708337653957,2411,getLandingPage-4,200,OK,Thread Group 1-1,text,true,,5325,459,1,1,https://www.demoblaze.com/index.html,2387,0,2141
+1708337656371,190,getLandingPage-22,200,OK,Thread Group 1-1,text,true,,418,452,1,1,https://www.demoblaze.com/config.json,189,0,0
+1708337656563,285,getLandingPage-31,200,OK,Thread Group 1-1,text,true,,1443,397,1,1,https://hls.demoblaze.com/index.m3u8,284,0,221
+1708337656850,66,getLandingPage-32,200,OK,Thread Group 1-1,text,true,,6246,411,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,63,0,0
+1708337656916,489,getLandingPage-33,200,OK,Thread Group 1-1,text,true,,543124,414,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,65,0,0
+1708337657406,459,getLandingPage-23,200,OK,Thread Group 1-1,text,true,,1513,394,1,1,https://api.demoblaze.com/entries,459,0,243
+1708337657869,1903,saveLogin,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,10572,3727,1,1,null,0,1414,172
+1708337657870,194,saveLogin-34,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/login,194,0,0
+1708337659381,269,saveLogin-35,200,OK,Thread Group 1-1,text,true,,507,486,1,1,https://api.demoblaze.com/login,268,0,0
+1708337659650,198,saveLogin-36,200,OK,Thread Group 1-1,text,true,,5075,459,1,1,https://www.demoblaze.com/index.html,197,0,0
+1708337659849,187,saveLogin-52,200,OK,Thread Group 1-1,text,true,,508,452,1,1,https://www.demoblaze.com/config.json,186,0,0
+1708337660037,190,saveLogin-54,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,190,0,0
+1708337660228,208,saveLogin-53,200,OK,Thread Group 1-1,text,true,,1580,394,1,1,https://api.demoblaze.com/entries,207,0,0
+1708337660437,200,saveLogin-55,200,OK,Thread Group 1-1,text,true,,636,477,1,1,https://api.demoblaze.com/check,199,0,0
+1708337660729,457,saveLogin-63,200,OK,Thread Group 1-1,text,true,,1368,501,1,1,https://spocs.getpocket.com/spocs,457,0,172
+1708337661188,404,selectLaptopsPage,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1949,942,1,1,null,0,3,0
+1708337661190,193,selectLaptopsPage-64,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/bycat,193,0,0
+1708337661384,211,selectLaptopsPage-65,200,OK,Thread Group 1-1,text,true,,1500,463,1,1,https://api.demoblaze.com/bycat,210,0,0
+1708337661595,1190,selectSpesificItem,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,8429,2866,1,1,null,0,6,0
+1708337661596,208,selectMaCBookLaptop-68,200,OK,Thread Group 1-1,text,true,,5622,519,1,1,https://www.demoblaze.com/prod.html?idp_=8,203,0,0
+1708337661805,192,selectMaCBookLaptop-81,200,OK,Thread Group 1-1,text,true,,494,459,1,1,https://www.demoblaze.com/config.json,191,0,0
+1708337661997,188,selectMaCBookLaptop-82,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,188,0,0
+1708337662187,190,selectMaCBookLaptop-83,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,190,0,0
+1708337662379,202,selectMaCBookLaptop-85,200,OK,Thread Group 1-1,text,true,,714,477,1,1,https://api.demoblaze.com/check,202,0,0
+1708337662581,210,selectMaCBookLaptop-84,200,OK,Thread Group 1-1,text,true,,701,454,1,1,https://api.demoblaze.com/view,210,0,0
+1708337662793,434,addItemToCart,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,760,1036,1,1,null,0,3,0
+1708337662793,189,addLaptopToCart-87,200,OK,Thread Group 1-1,text,true,,449,483,1,1,https://api.demoblaze.com/addtocart,189,0,0
+1708337662984,245,addLaptopToCart-88,200,OK,Thread Group 1-1,text,true,,311,553,1,1,https://api.demoblaze.com/addtocart,245,0,0
+1708337663230,1637,goToCart,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,9721,3833,1,1,null,0,7,0
+1708337663231,218,goToCart-89,200,OK,Thread Group 1-1,text,true,,5901,519,1,1,https://www.demoblaze.com/cart.html,212,0,0
+1708337663449,206,goToCart-104,200,OK,Thread Group 1-1,text,true,,617,451,1,1,https://www.demoblaze.com/config.json,206,0,0
+1708337663655,195,goToCart-105,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,195,0,0
+1708337663851,190,goToCart-106,200,OK,Thread Group 1-1,text,true,,449,482,1,1,https://api.demoblaze.com/viewcart,190,0,0
+1708337664042,208,goToCart-107,200,OK,Thread Group 1-1,text,true,,505,477,1,1,https://api.demoblaze.com/check,208,0,0
+1708337664251,223,goToCart-108,200,OK,Thread Group 1-1,text,true,,678,493,1,1,https://api.demoblaze.com/viewcart,222,0,0
+1708337664475,190,goToCart-109,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,190,0,0
+1708337664665,207,goToCart-110,200,OK,Thread Group 1-1,text,true,,673,454,1,1,https://api.demoblaze.com/view,206,0,0
+1708337664874,1512,savePurchase,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,8709,3267,1,1,null,0,6,0
+1708337664875,202,savePurchase-112,200,OK,Thread Group 1-1,text,true,,449,484,1,1,https://api.demoblaze.com/deletecart,202,0,0
+1708337665078,251,savePurchase-113,200,OK,Thread Group 1-1,text,true,,316,469,1,1,https://api.demoblaze.com/deletecart,251,0,0
+1708337665330,192,savePurchase-115,200,OK,Thread Group 1-1,text,true,,4913,512,1,1,https://www.demoblaze.com/index.html,190,0,0
+1708337665523,186,savePurchase-131,200,OK,Thread Group 1-1,text,true,,541,452,1,1,https://www.demoblaze.com/config.json,186,0,0
+1708337665710,191,savePurchase-132,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,191,0,0
+1708337665901,245,savePurchase-133,200,OK,Thread Group 1-1,text,true,,1482,394,1,1,https://api.demoblaze.com/entries,245,0,0
+1708337666147,245,savePurchase-134,200,OK,Thread Group 1-1,text,true,,559,477,1,1,https://api.demoblaze.com/check,245,0,0
+1708337666393,403,selectLaptopsPage,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1853,942,1,1,null,0,1,0
+1708337666393,188,selectLaptopsPage-64,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/bycat,188,0,0
+1708337666582,215,selectLaptopsPage-65,200,OK,Thread Group 1-1,text,true,,1404,463,1,1,https://api.demoblaze.com/bycat,214,0,0
+1708337666798,1191,selectSpesificItem,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,8771,2866,1,1,null,0,6,0
+1708337666799,219,selectMaCBookLaptop-68,200,OK,Thread Group 1-1,text,true,,5765,519,1,1,https://www.demoblaze.com/prod.html?idp_=9,205,0,0
+1708337667018,188,selectMaCBookLaptop-81,200,OK,Thread Group 1-1,text,true,,472,459,1,1,https://www.demoblaze.com/config.json,187,0,0
+1708337667208,189,selectMaCBookLaptop-82,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,189,0,0
+1708337667398,192,selectMaCBookLaptop-83,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,192,0,0
+1708337667591,200,selectMaCBookLaptop-85,200,OK,Thread Group 1-1,text,true,,726,477,1,1,https://api.demoblaze.com/check,200,0,0
+1708337667792,203,selectMaCBookLaptop-84,200,OK,Thread Group 1-1,text,true,,910,454,1,1,https://api.demoblaze.com/view,202,0,0
+1708337667997,504,addItemToCart,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,756,1036,1,1,null,0,2,0
+1708337667997,190,addLaptopToCart-87,200,OK,Thread Group 1-1,text,true,,449,483,1,1,https://api.demoblaze.com/addtocart,190,0,0
+1708337668188,314,addLaptopToCart-88,200,OK,Thread Group 1-1,text,true,,307,553,1,1,https://api.demoblaze.com/addtocart,314,0,0
+1708337668504,1599,goToCart,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,10004,3833,1,1,null,0,7,0
+1708337668505,200,goToCart-89,200,OK,Thread Group 1-1,text,true,,5732,519,1,1,https://www.demoblaze.com/cart.html,200,0,0
+1708337668706,187,goToCart-104,200,OK,Thread Group 1-1,text,true,,648,451,1,1,https://www.demoblaze.com/config.json,186,0,0
+1708337668894,189,goToCart-105,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,189,0,0
+1708337669083,190,goToCart-106,200,OK,Thread Group 1-1,text,true,,449,482,1,1,https://api.demoblaze.com/viewcart,190,0,0
+1708337669274,206,goToCart-107,200,OK,Thread Group 1-1,text,true,,678,477,1,1,https://api.demoblaze.com/check,205,0,0
+1708337669481,225,goToCart-108,200,OK,Thread Group 1-1,text,true,,699,493,1,1,https://api.demoblaze.com/viewcart,225,0,0
+1708337669706,191,goToCart-109,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,191,0,0
+1708337669898,211,goToCart-110,200,OK,Thread Group 1-1,text,true,,900,454,1,1,https://api.demoblaze.com/view,211,0,0
+1708337670111,1388,savePurchase,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,9134,3267,1,1,null,0,8,0
+1708337670111,232,savePurchase-112,200,OK,Thread Group 1-1,text,true,,449,484,1,1,https://api.demoblaze.com/deletecart,232,0,0
+1708337670344,250,savePurchase-113,200,OK,Thread Group 1-1,text,true,,316,469,1,1,https://api.demoblaze.com/deletecart,250,0,0
+1708337670596,199,savePurchase-115,200,OK,Thread Group 1-1,text,true,,5028,512,1,1,https://www.demoblaze.com/index.html,197,0,0
+1708337670796,81,savePurchase-131,200,OK,Thread Group 1-1,text,true,,638,452,1,1,https://www.demoblaze.com/config.json,81,0,0
+1708337670878,189,savePurchase-132,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,189,0,0
+1708337671067,235,savePurchase-133,200,OK,Thread Group 1-1,text,true,,1671,394,1,1,https://api.demoblaze.com/entries,235,0,0
+1708337671304,202,savePurchase-134,200,OK,Thread Group 1-1,text,true,,583,477,1,1,https://api.demoblaze.com/check,202,0,0
+1708337671507,402,selectLaptopsPage,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1873,942,1,1,null,0,1,0
+1708337671508,192,selectLaptopsPage-64,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/bycat,192,0,0
+1708337671700,210,selectLaptopsPage-65,200,OK,Thread Group 1-1,text,true,,1424,463,1,1,https://api.demoblaze.com/bycat,209,0,0
+1708337671911,1166,selectSpesificItem,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,8503,2868,1,1,null,0,6,0
+1708337671911,196,selectMaCBookLaptop-68,200,OK,Thread Group 1-1,text,true,,5627,520,1,1,https://www.demoblaze.com/prod.html?idp_=12,191,0,0
+1708337672108,187,selectMaCBookLaptop-81,200,OK,Thread Group 1-1,text,true,,531,459,1,1,https://www.demoblaze.com/config.json,187,0,0
+1708337672296,192,selectMaCBookLaptop-82,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,192,0,0
+1708337672489,190,selectMaCBookLaptop-83,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,190,0,0
+1708337672680,201,selectMaCBookLaptop-85,200,OK,Thread Group 1-1,text,true,,502,477,1,1,https://api.demoblaze.com/check,201,0,0
+1708337672882,200,selectMaCBookLaptop-84,200,OK,Thread Group 1-1,text,true,,945,455,1,1,https://api.demoblaze.com/view,200,0,0
+1708337673084,447,addItemToCart,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,756,1037,1,1,null,0,1,0
+1708337673084,213,addLaptopToCart-87,200,OK,Thread Group 1-1,text,true,,449,483,1,1,https://api.demoblaze.com/addtocart,213,0,0
+1708337673298,234,addLaptopToCart-88,200,OK,Thread Group 1-1,text,true,,307,554,1,1,https://api.demoblaze.com/addtocart,234,0,0
+1708337673533,1566,goToCart,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,10120,3834,1,1,null,0,5,0
+1708337673533,194,goToCart-89,200,OK,Thread Group 1-1,text,true,,5956,519,1,1,https://www.demoblaze.com/cart.html,189,0,0
+1708337673728,187,goToCart-104,200,OK,Thread Group 1-1,text,true,,563,451,1,1,https://www.demoblaze.com/config.json,187,0,0
+1708337673916,191,goToCart-105,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,191,0,0
+1708337674108,187,goToCart-106,200,OK,Thread Group 1-1,text,true,,449,482,1,1,https://api.demoblaze.com/viewcart,187,0,0
+1708337674296,198,goToCart-107,200,OK,Thread Group 1-1,text,true,,693,477,1,1,https://api.demoblaze.com/check,197,0,0
+1708337674494,221,goToCart-108,200,OK,Thread Group 1-1,text,true,,756,493,1,1,https://api.demoblaze.com/viewcart,220,0,0
+1708337674715,187,goToCart-109,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,187,0,0
+1708337674903,201,goToCart-110,200,OK,Thread Group 1-1,text,true,,805,455,1,1,https://api.demoblaze.com/view,200,0,0
+1708337675106,1481,savePurchase,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,8956,3267,1,1,null,0,5,0
+1708337675106,189,savePurchase-112,200,OK,Thread Group 1-1,text,true,,449,484,1,1,https://api.demoblaze.com/deletecart,189,0,0
+1708337675295,309,savePurchase-113,200,OK,Thread Group 1-1,text,true,,316,469,1,1,https://api.demoblaze.com/deletecart,309,0,0
+1708337675605,193,savePurchase-115,200,OK,Thread Group 1-1,text,true,,5145,512,1,1,https://www.demoblaze.com/index.html,188,0,0
+1708337675799,188,savePurchase-131,200,OK,Thread Group 1-1,text,true,,466,452,1,1,https://www.demoblaze.com/config.json,188,0,0
+1708337675988,189,savePurchase-132,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,189,0,0
+1708337676178,212,savePurchase-133,200,OK,Thread Group 1-1,text,true,,1548,394,1,1,https://api.demoblaze.com/entries,210,0,0
+1708337676391,201,savePurchase-134,200,OK,Thread Group 1-1,text,true,,583,477,1,1,https://api.demoblaze.com/check,201,0,0
+1708337676593,403,selectLaptopsPage,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1921,942,1,1,null,0,1,0
+1708337676594,189,selectLaptopsPage-64,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/bycat,189,0,0
+1708337676783,214,selectLaptopsPage-65,200,OK,Thread Group 1-1,text,true,,1472,463,1,1,https://api.demoblaze.com/bycat,213,0,0
+1708337676997,1191,selectSpesificItem,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,8778,2868,1,1,null,0,5,0
+1708337676998,210,selectMaCBookLaptop-68,200,OK,Thread Group 1-1,text,true,,5674,520,1,1,https://www.demoblaze.com/prod.html?idp_=13,204,0,0
+1708337677208,188,selectMaCBookLaptop-81,200,OK,Thread Group 1-1,text,true,,647,459,1,1,https://www.demoblaze.com/config.json,188,0,0
+1708337677397,191,selectMaCBookLaptop-82,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,191,0,0
+1708337677589,189,selectMaCBookLaptop-83,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,189,0,0
+1708337677779,204,selectMaCBookLaptop-85,200,OK,Thread Group 1-1,text,true,,696,477,1,1,https://api.demoblaze.com/check,198,0,0
+1708337677984,209,selectMaCBookLaptop-84,200,OK,Thread Group 1-1,text,true,,863,455,1,1,https://api.demoblaze.com/view,209,0,0
+1708337678193,428,addItemToCart,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,756,1037,1,1,null,0,3,0
+1708337678194,190,addLaptopToCart-87,200,OK,Thread Group 1-1,text,true,,449,483,1,1,https://api.demoblaze.com/addtocart,190,0,0
+1708337678385,238,addLaptopToCart-88,200,OK,Thread Group 1-1,text,true,,307,554,1,1,https://api.demoblaze.com/addtocart,238,0,0
+1708337678625,1587,goToCart,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,10079,3834,1,1,null,0,8,0
+1708337678625,193,goToCart-89,200,OK,Thread Group 1-1,text,true,,5952,519,1,1,https://www.demoblaze.com/cart.html,189,0,0
+1708337678819,188,goToCart-104,200,OK,Thread Group 1-1,text,true,,530,451,1,1,https://www.demoblaze.com/config.json,188,0,0
+1708337679008,191,goToCart-105,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,191,0,0
+1708337679200,191,goToCart-106,200,OK,Thread Group 1-1,text,true,,449,482,1,1,https://api.demoblaze.com/viewcart,191,0,0
+1708337679392,205,goToCart-107,200,OK,Thread Group 1-1,text,true,,562,477,1,1,https://api.demoblaze.com/check,201,0,0
+1708337679598,219,goToCart-108,200,OK,Thread Group 1-1,text,true,,716,493,1,1,https://api.demoblaze.com/viewcart,219,0,0
+1708337679818,198,goToCart-109,200,OK,Thread Group 1-1,text,true,,449,478,1,1,https://api.demoblaze.com/view,198,0,0
+1708337680017,202,goToCart-110,200,OK,Thread Group 1-1,text,true,,972,455,1,1,https://api.demoblaze.com/view,202,0,0
+1708337680222,1392,savePurchase,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,9294,3267,1,1,null,0,4,0
+1708337680222,188,savePurchase-112,200,OK,Thread Group 1-1,text,true,,449,484,1,1,https://api.demoblaze.com/deletecart,188,0,0
+1708337680411,320,savePurchase-113,200,OK,Thread Group 1-1,text,true,,316,469,1,1,https://api.demoblaze.com/deletecart,320,0,0
+1708337680732,193,savePurchase-115,200,OK,Thread Group 1-1,text,true,,5177,512,1,1,https://www.demoblaze.com/index.html,189,0,0
+1708337680926,79,savePurchase-131,200,OK,Thread Group 1-1,text,true,,552,452,1,1,https://www.demoblaze.com/config.json,78,0,0
+1708337681005,190,savePurchase-132,200,OK,Thread Group 1-1,text,true,,449,479,1,1,https://api.demoblaze.com/check,190,0,0
+1708337681196,215,savePurchase-133,200,OK,Thread Group 1-1,text,true,,1640,394,1,1,https://api.demoblaze.com/entries,214,0,0
+1708337681411,207,savePurchase-134,200,OK,Thread Group 1-1,text,true,,711,477,1,1,https://api.demoblaze.com/check,206,0,0
